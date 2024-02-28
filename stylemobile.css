@@ -297,9 +297,9 @@
 
   /*--------------------------Story-video-play--------------*/
   .story-video-playing{
-    left: 0;
-    width: 100%;
-    top: 4%;
+    left: 5vw;
+    width: 90%;
+    top: 1%;
     box-shadow: none;
   }
   
